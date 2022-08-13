@@ -17,31 +17,6 @@
 <p align="left">
 </p>
 
-> MY STATS
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=omerfarukkvk&show_icons=true&locale=tr" alt="omerfarukkvk" /></p>
-
-----------------------------------------------------------------------
-
-
-<h1 align="center">Merhaba 👋, ben Ömer Faruk</h1>
-<h3 align="center">Şu anda 42 İstanbul'da öğrenciyim</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfarukkvk&label=Profile%20views&color=0e75b6&style=flat" alt="omerfarukkvk" /> </p>
-
-<p align="left"> <a href=" https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerfarukkvk" alt="omerfarukkvk" /> </a> </p>
-
-- 📫 Bana nasıl ulaşırsınız **kvkomerfaruk@gmail.com**
-
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://twitter.com/kvkomerfaruk" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="kvkomerfaruk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /omerfarukkvk" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked -in-alt.svg" alt="omerfarukkvk" height="30" width="40" /></a>
-<a href="https://instagram.com/omerfarukkvk" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerfarukkvk" height="30" width="40" />< /a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkvk&show_icons=true&locale=tr&layout=compact" alt="omerfarukkvk" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=omerfarukkvk&show_icons=true&locale=en" alt="omerfarukkvk" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerfarukkvk&" alt="omerfarukkvk" /></p>
