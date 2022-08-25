@@ -14,6 +14,6 @@
 <a href="https://instagram.com/omerfarukkvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerfarukkvk" height="30" width="40" /></a>
 </p>
 
-<p> <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=omerfarukkvk&show_icons=true&locale=tr" alt="omerfarukkvk" />
-<img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkvk&show_icons=true&locale=tr&layout=compact" alt="omerfarukkvk" /> </p>
+<img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=omerfarukkvk&show_icons=true&locale=tr" alt="omerfarukkvk" />
+<img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkvk&show_icons=true&locale=tr&layout=compact" alt="omerfarukkvk" />
 
