@@ -20,3 +20,9 @@
 <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=omerfarukkvk&show_icons=true&locale=tr" alt="omerfarukkvk" />
 <img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkvk&show_icons=true&locale=tr&layout=compact" alt="omerfarukkvk" /></div>
 
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="ryihan" />
+</p>
+
