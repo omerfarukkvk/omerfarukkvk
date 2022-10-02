@@ -23,6 +23,6 @@
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="ryihan" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=omerfarukkvk&theme=dracula" alt="omerfarukkvk" />
 </p>
 
