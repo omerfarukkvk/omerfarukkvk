@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkvk&show_icons=true&locale=tr&layout=compact" alt="omerfarukkvk" /></p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=omerfarukkvk&theme=dracula" alt="omerfarukkvk" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkvk&show_icons=true&locale=tr&layout=compact" alt="omerfarukkvk" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=omerfarukkvk&theme=dracula" alt="omerfarukkvk" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73075252/179644482-0d6cb046-f897-4458-9ccc-fe3db6058985.svg">
 
