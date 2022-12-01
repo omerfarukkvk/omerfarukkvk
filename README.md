@@ -22,5 +22,5 @@
 </p>
 
 
-## My  Contribution Stats
+## Contribution Snake
 ![snake gif](https://github.com/omerfarukkvk/omerfarukkvk/blob/output/github-contribution-grid-snake.gif)
