@@ -21,5 +21,6 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=omerfarukkvk&theme=dracula" alt="omerfarukkvk" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73075252/179644482-0d6cb046-f897-4458-9ccc-fe3db6058985.svg">
 
+## My  Contribution Stats
+![snake gif](https://github.com/omerfarukkvk/omerfarukkvk/blob/output/github-contribution-grid-snake.gif)
