@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfarukkvk&label=Profile%20views&color=0e75b6&style=flat" alt="omerfarukkvk" /> </p>
 
-- 🌱 I’m currently learning *Game Developement**
+- 🌱 I’m currently learning **Game Developement**
 
 - 📫 How to reach me **kvkomerfaruk@gmail.com**
 
